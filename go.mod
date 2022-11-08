@@ -1,4 +1,4 @@
-module test/rlp
+module celo-tx-decoder
 
 go 1.13
 
