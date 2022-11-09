@@ -4,8 +4,8 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/celo-org/celo-blockchain/core/types"
-	"github.com/celo-org/celo-blockchain/rlp"
+	"github.com/mstraka100/celo-blockchain-small/types"
+	"github.com/mstraka100/celo-blockchain-small/rlp"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 )
 
